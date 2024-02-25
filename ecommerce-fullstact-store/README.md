@@ -22,7 +22,7 @@ npm i
 
 
 ```js
-NEXT_PUBLIC_API_URL=
+NEXT_PUBLIC_API_URL=http://localhost:3000/api/25d470a7-208a-40f4-b758-1296d48653f3
 ```
 
 
